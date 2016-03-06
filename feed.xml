@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DarkLitss's.Blog()</title>
+        <description>DarkLitss的博客</description>
+        <link>/</link>
+        <atom:link href="//feed.xml" rel="self" type="application/rss+xml" />
+        <pubDate>2016-03-06 20:03:46</pubDate>
+        <lastBuildDate>2016-03-06 20:03:46</lastBuildDate>
+        <generator>Gitblog v1.0</generator>
+                <item>
+            <title>关于Lss233挖的那些坑 {2016年02月}</title>
+            <description>
+            &lt;!--
+author: Lss233
+date: 2016-2-17
+title: 关于Lss233挖的那些坑 {2016年02月}
+tags: bullshit
+category: bullshit
+status: publish
+summary: 不到一个月的时间，我就挖了这么多坑，真是要命!
+--&gt;
+&lt;p&gt;不到一个月的时间，我就挖了这么多坑，真是要命 - - .&lt;/p&gt;
+&lt;h2 id=&quot;DMCAPI-Cacher&quot;&gt;DMCAPI-Cacher&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://coding.net/u/lss233/p/DMCAPI-Cacher&quot;&gt;Coding&lt;/a&gt;
+DMCAPI用于解决国内线路对Minecraft官方使用的Amazon S3 速度缓慢的问题。DMCAPI-Cacher是DMCAPI在云端的缓存工具，基于&lt;code&gt;Python&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;其实就是造轮子&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;ircBot&quot;&gt;ircBot&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://coding.net/u/lss233/p/ircBot&quot;&gt;Coding&lt;/a&gt;
+ircBot是Lss233闲着蛋疼用&lt;code&gt;NodeJs&lt;/code&gt;写的一个&lt;strong&gt;IRC&lt;/strong&gt;(互联网中继聊天)聊天机器人&lt;em&gt;其实并没有什么软用，BUG一堆&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Fi-Attacker&quot;&gt;Fi-Attacker&lt;/h2&gt;
+&lt;p&gt;[这个暂时不开源]
+Fi-Attacker是一个伪志愿DDoS计划，目前没有更多消息
+服务端使用的语言:&lt;code&gt;NodeJs&lt;/code&gt;
+客户端提供的SDK:&lt;code&gt;Java&lt;/code&gt;当然我会加。&lt;/p&gt;
+&lt;h2 id=&quot;MRDP&quot;&gt;MRDP&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://coding.net/u/lss233/p/MRDP&quot;&gt;Coding&lt;/a&gt;
+MRDP全称&lt;strong&gt;Minecraft Server Rapid deployment package&lt;/strong&gt;,是Lss233闲云主机开Minecraft服务器需要下载的东西太多太麻烦而做的一个快速部署包。
+内含:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BungeeCord 最后一个编译版本&lt;/li&gt;
+&lt;li&gt;PaperSpigot1.7.10 最后一个编译版本&lt;/li&gt;
+&lt;li&gt;一个服务端基本包&lt;/li&gt;
+&lt;li&gt;携带的插件:&lt;/li&gt;
+&lt;li&gt;XAMPP绿色版(Apache服务好像不能用,Mysqld内存吃太多)&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[登陆插件]Authme &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[防爆]AntiCreeper &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[老板商店]BossShop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[基本插件]Essentials &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[基本插件]EssentialsSpawn &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[基本插件]EssentialsProtect &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[基本插件]EssentialsAntiBuild &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[基本插件]EssentilsChat &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[木牌中文]Signs &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[经济插件]iConomy &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[创世神]WorldEdit &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;[经济插件API]Vault&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;So On..&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;恩。。以上就是我能想起来的我所挖的坑。
+&lt;em&gt;请叫我挖坑狂魔!&lt;/em&gt;&lt;/p&gt;            </description>
+            <pubDate>2016-02-18 20:15:56</pubDate>
+            <link>//blog/1.html</link>
+            <guid isPermaLink="true">//blog/1.html</guid>
+                                               <category>bullshit</category>
+                                    </item>
+                <item>
+            <title>一些废话-博客又该死的搬家了= =</title>
+            <description>
+            &lt;!--
+author: Lss233
+date: 2016-1-27
+title: 一些废话-博客又该死的搬家了= =
+tags: bullshit
+category: bullshit
+status: publish
+summary: 废话而已
+--&gt;
+&lt;h2 id=&quot;.&quot;&gt;.&lt;/h2&gt;
+&lt;h2&gt;　昨天晚上高烧了一场,醒来居然把自己原来博客的主域名忘了(幸好没有烧成傻子)。后来发现自己博客的空间居然不支持免费了，另一个空间被&lt;code&gt;Wordpress&lt;/code&gt;的&lt;code&gt;Jetpack&lt;/code&gt;插件玩的还是&lt;code&gt;503&lt;/code&gt;打不开&lt;em&gt;(:з」∠)&lt;/em&gt;。
+　于是我只好用了三蛋提供的免费空间,速度还不错，FTP也有，比那两个YH的坑爹营销空间好多了，就是耍起来有点蛋疼。。不过就这样凑合着用吧。&lt;/h2&gt;
+&lt;h2&gt;　这次不用&lt;code&gt;Wordpress&lt;/code&gt;了，改用&lt;code&gt;Typecho&lt;/code&gt;。这货居然原生支持&lt;code&gt;Markdown&lt;/code&gt;，对我来说简直棒极了!&lt;/h2&gt;
+&lt;h2&gt;　另外这次期末考又退了，估计这样下去是上不了重点高中了/(ㄒoㄒ)/~~
+&lt;em&gt;早恋的下场真是太严重了,不过有个好女友也是挺不错的。&lt;/em&gt;&lt;/h2&gt;            </description>
+            <pubDate>2016-02-18 20:16:06</pubDate>
+            <link>//blog/2.html</link>
+            <guid isPermaLink="true">//blog/2.html</guid>
+                                               <category>bullshit</category>
+                                    </item>
+                <item>
+            <title>欢迎使用GitBlog</title>
+            <description>
+            &lt;!--
+author: jockchou
+head: http://pingodata.qiniudn.com/jockchou-avatar.jpg
+date: 2015-07-31
+title: 欢迎使用GitBlog
+tags: GitBlog
+images: http://pingodata.qiniudn.com/cube2.jpg
+category: GitBlog
+status: publish
+summary: GitBlog是一个简单易用的Markdown博客系统，它不需要数据库，没有管理后台功能，更新博客只需要添加你写好的Markdown文件即可。
+--&gt;
+&lt;h2 id=&quot;一. 简介&quot;&gt;一. 简介&lt;/h2&gt;
+&lt;p&gt;GitBlog是一个简单易用的Markdown博客系统，它不需要数据库，没有管理后台功能，更新博客只需要添加你写好的Markdown文件即可。它摆脱了在线编辑器排版困难，无法实时预览的缺点，一切都交给Markdown来完成，一篇博客就是一个Markdown文件。同时也支持评论，代码高亮，数学公式，页面PV统计等常用功能。GitBlog提供了不同的主题样式，你可以根据自己的喜好配置，如果你想自己制作博客主题，也是非常容易的。GitBlog还支持整站静态导出，你完全可以导出整站静态网页部署到Github Pages。&lt;/p&gt;
+&lt;h2 id=&quot;二. 功能特点&quot;&gt;二. 功能特点&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;使用Markdown  &lt;/li&gt;
+&lt;li&gt;评论框  &lt;/li&gt;
+&lt;li&gt;代码高亮  &lt;/li&gt;
+&lt;li&gt;PV统计  &lt;/li&gt;
+&lt;li&gt;Latex数学公式  &lt;/li&gt;
+&lt;li&gt;自制主题  &lt;/li&gt;
+&lt;li&gt;响应式  &lt;/li&gt;
+&lt;li&gt;全站静态导出  &lt;/li&gt;
+&lt;li&gt;良好的SEO  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;三. GitBlog优势&quot;&gt;三. GitBlog优势&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;无需数据库，系统更轻量，移植更方便  &lt;/li&gt;
+&lt;li&gt;使用Markdown编写，摆脱后台编辑排版困难，无法实时预览的缺点  &lt;/li&gt;
+&lt;li&gt;可全站静态导出  &lt;/li&gt;
+&lt;li&gt;配置灵活，可自由开关某些功能  &lt;/li&gt;
+&lt;li&gt;多主题支持，可自制主题  &lt;/li&gt;
+&lt;li&gt;博客，分类，标签，归档  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;四. 环境要求&quot;&gt;四. 环境要求&lt;/h2&gt;
+&lt;p&gt;PHP 5.2.4+&lt;/p&gt;
+&lt;h2 id=&quot;五. 安装步骤&quot;&gt;五. 安装步骤&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;下载GitBlog源代码  &lt;/li&gt;
+&lt;li&gt;解压上传到你的PHP网站根目录  &lt;/li&gt;
+&lt;li&gt;打开浏览器，访问网站首页  &lt;/li&gt;
+&lt;li&gt;上传Markdown文件到&lt;code&gt;posts&lt;/code&gt;文件夹  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;六. 详细说明&quot;&gt;六. 详细说明&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/install.html&quot;&gt;1. 安装&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/struct.html&quot;&gt;2. 目录结构&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/config.html&quot;&gt;3. 配置说明&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/edit.html&quot;&gt;4. 编写博客&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/other-func.html&quot;&gt;5. 评论，订阅，统计等&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/cache.html&quot;&gt;6. 缓存机制&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/export.html&quot;&gt;7. 全站静态导出&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/theme.html&quot;&gt;8. 主题制作&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/nginx.html&quot;&gt;9. 在Nginx上运行GitBlog&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/apache.html&quot;&gt;10. 在Apache上运行GitBlog&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/sae.html&quot;&gt;11. 在SAE上运行GitBlog&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/github-pages.html&quot;&gt;12. 使用GitBlog和Github Pages搭建博客&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/update.html&quot;&gt;13. Gitblog升级&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://gitblogdoc.sinaapp.com/blog/gitblog/wordpress.html&quot;&gt;14. 从wordpress导入&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;七. 问题及bug反馈&quot;&gt;七. 问题及bug反馈&lt;/h2&gt;
+&lt;p&gt;如果在实际使用过程中对GitBlog有新的功能需求，或者在使用GitBlog的过程中发现了Bug，欢迎反馈给我。可以直接在Github上提交，也可以发邮件至&lt;code&gt;164068300[AT]qq.com&lt;/code&gt;与我取得联系，我将及时回复。如果你自己制作了漂亮好用的主题，也非常欢迎你提交给我，我会在这里展示你的主题链接。如果你正在使用GitBlog，也可以告诉我，我将也会在这里列出使用者名单。如果你想和其他GitBlog使用者讨论交流，欢迎加入QQ群&lt;code&gt;84692078&lt;/code&gt;。&lt;/p&gt;
+&lt;h2 id=&quot;八. 使用者列表&quot;&gt;八. 使用者列表&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.hiweeds.net&quot;&gt;Weeds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://xiaochengzi.sinaapp.com&quot;&gt;橙子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://jockchou.gitblog.cn&quot;&gt;jockchou&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://gitblogdoc.sinaapp.com&quot;&gt;GitBlog Doc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://zxy.link&quot;&gt;zxy&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;九. 感谢&quot;&gt;九. 感谢&lt;/h2&gt;
+&lt;p&gt;GitBlog的成长需要喜欢Markdown，喜欢写博客的各位亲们支持！感谢你们使用GitBlog，感激你们对Gitblog的良好建议与Bug反馈。&lt;/p&gt;
+&lt;p&gt;QQ群：&lt;code&gt;84692078&lt;/code&gt;&lt;br /&gt;
+作者邮箱：&lt;code&gt;164068300[AT]qq.com&lt;/code&gt;    &lt;/p&gt;            </description>
+            <pubDate>2016-02-18 17:02:08</pubDate>
+            <link>//blog/welcome.html</link>
+            <guid isPermaLink="true">//blog/welcome.html</guid>
+                                               <category>GitBlog</category>
+                                    </item>
+            </channel>
+</rss>
